@@ -7,9 +7,7 @@
         <title>Laravel</title>
     </head>
     <body >
-        <div class="p-4 font-bold text-red-800 bg-slate-300">
-            halo
-        </div>
+        
         <div class="text-red-500 mt-52 ">
             halo
         </div>
